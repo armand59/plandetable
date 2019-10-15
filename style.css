@@ -1,0 +1,619 @@
+#Salle
+{
+    background-color: navajowhite;
+    height: 750px;
+    width: 1200px;
+}
+
+.range1
+{
+    height: 300px;
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 100px;
+    margin-left: 300px;
+    color: cornsilk;
+    font-size: 20px;
+
+
+}
+
+#table1
+{
+    display: inline-block;
+    height: 180px;
+    width: 260px;
+    background-color: chocolate;
+
+}
+
+#table2
+{
+    display: inline-block;
+    height: 180px;
+    width: 260px;
+    background-color: chocolate;
+}
+
+
+#table3
+{
+    display: inline-block;
+    height: 180px;
+    width: 260px;
+    background-color: chocolate;
+}
+
+.range2
+{
+    height: 300px;
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 80px;
+    margin-left: 300px;
+
+}
+
+#table4
+{
+    display: inline-block;
+    height: 180px;
+    width: 260px;
+    background-color: chocolate;
+
+}
+
+#table5
+{
+    display: inline-block;
+    height: 180px;
+    width: 260px;
+    background-color: chocolate;
+}
+
+
+#table6
+{
+    display: inline-block;
+    height: 180px;
+    width: 260px;
+    background-color: chocolate;
+}
+
+#bureau
+{
+    height:260px ;
+    width: 180px;
+    background-color: chocolate;
+    margin-top: 250px;
+    margin-left: 50px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.chaisetop
+{
+    height: 100px;
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -200px;
+    margin-left: 50px;
+}
+
+#chaise1
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#chaise2
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+
+}
+
+#chaise3
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+
+}
+
+#chaise4
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+#chaise5
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+#chaise6
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+.chaisetop2
+{
+    height: 100px;
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -19px;
+    margin-left: 50px;
+}
+
+#chaise7
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#chaise8
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+
+}
+
+#chaise9
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+
+}
+
+#chaise10
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+#chaise11
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+#chaise12
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+.chaisebottom
+{
+    height: 100px;
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -200px;
+    margin-left: 50px;
+}
+
+#chaise13
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#chaise14
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+
+}
+
+#chaise15
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+
+}
+
+#chaise16
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+#chaise17
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+#chaise18
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+.chaisebottom2
+{
+    height: 100px;
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -19px;
+    margin-left: 50px;
+}
+
+#chaise19
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+#chaise20
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+
+}
+
+#chaise21
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+
+}
+
+#chaise22
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+#chaise23
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+#chaise24
+{
+    background-color: black;
+    height: 10px;
+    width: 50px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 75px;
+}
+
+#chaisedesk
+{
+    background-color: black;
+    height: 50px;
+    width: 10px;
+    vertical-align: top;
+    margin-left: 30px;
+    position: absolute;
+    margin-top: 350px;
+}
+
+
+.prénomtop
+{
+    height: 100px;
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -290px;
+    margin-left: -750px;
+    position: absolute;
+    color: ivory;
+    font-size: 20px;
+
+}
+
+#Michelle
+
+{
+    display: inline-block;
+    margin-left: -10px;
+
+}
+#Fabien
+
+{
+    display: inline-block;
+    margin-left: 63px;
+}
+#Romain
+
+{
+    display: inline-block;
+    margin-left: 67px;
+}
+#David
+
+{
+    display: inline-block;
+    margin-left: 69px;
+}
+#Manon
+
+{
+    display: inline-block;
+    margin-left: 75px;
+}
+#Johann
+
+{
+    display: inline-block;
+    margin-left: 71px;
+}
+
+.prénomtop2
+{
+    height: 100px;
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -149px;
+    margin-left: -750px;
+    position: absolute;
+    color: ivory;
+    font-size: 20px;
+
+}
+
+#Ludovic
+
+{
+    display: inline-block;
+    margin-left: -8px;
+
+}
+#Alex
+
+{
+    display: inline-block;
+    margin-left: 72px;
+}
+#Maxime
+
+{
+    display: inline-block;
+    margin-left: 76px;
+}
+#Jeremy
+
+{
+    display: inline-block;
+    margin-left: 65px;
+}
+#Quentin
+
+{
+    display: inline-block;
+    margin-left: 64px;
+}
+#Armand
+
+{
+    display: inline-block;
+    margin-left: 62px;
+}
+
+.prénombottom
+{
+    height: 100px;
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 90px;
+    margin-left: -750px;
+    position: absolute;
+    color: ivory;
+    font-size: 20px;
+
+}
+
+#Hortense
+
+{
+    display: inline-block;
+    margin-left: -13px;
+
+}
+#Jérôme
+
+{
+    display: inline-block;
+    margin-left: 61px;
+}
+#David2
+
+{
+    display: inline-block;
+    margin-left: 72px;
+}
+#Styvens
+
+{
+    display: inline-block;
+    margin-left: 70px;
+}
+#Elena
+
+{
+    display: inline-block;
+    margin-left: 71px;
+}
+#Quentin2
+
+{
+    display: inline-block;
+    margin-left: 71px;
+}
+
+.prénombottom2
+{
+    height: 100px;
+    width: 800px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 230px;
+    margin-left: -750px;
+    position: absolute;
+    color: ivory;
+    font-size: 20px;
+
+}
+
+#Alexandre
+
+{
+    display: inline-block;
+    margin-left: -18px;
+
+}
+#Samy
+
+{
+    display: inline-block;
+    margin-left: 61px;
+}
+#Dylan
+
+{
+    display: inline-block;
+    margin-left: 80px;
+}
+#Willy
+
+{
+    display: inline-block;
+    margin-left: 80px;
+}
+#Meddas
+
+{
+    display: inline-block;
+    margin-left: 69px;
+}
+#Anne-Lise
+
+{
+    display: inline-block;
+    margin-left: 54px;
+}
+
+#plan_de_table
+
+{
+    font-size: 35px;
+    position: absolute;
+    margin-top: 364px;
+    margin-left: 560px;
+}
+
+#middle
+{
+margin-top: 20px ;
+    margin-left: 150px;
+}
